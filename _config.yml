@@ -29,10 +29,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://hyeseong.github.io"
 
 github:
-  username: ahmedtremo # change to your github username
+  username: hyeseong # change to your github username
 
 twitter:
-  username: tremooo # change to your twitter username
+  username: hyeseong # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,8 +41,8 @@ social:
   email: ahmedtremoo@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/tremooo # change to your twitter homepage
-    - https://github.com/ahmedtremo # change to your github homepage
+    - https://twitter.com/hyeseong # change to your twitter homepage
+    - https://github.com/hyeseong # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/ahmed.tremo
     - https://www.linkedin.com/in/ahmedtremo
